@@ -9,7 +9,7 @@ I take a commercial process apart, find where the days go, and build the system 
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/IvanCharczuk/spec-harness"><img src="assets/spec-harness.gif" alt="spec-harness: one spec at a time" width="100%"></a>
       <br><b><a href="https://github.com/IvanCharczuk/spec-harness">spec-harness</a></b>
-      <br><sub>The harness I use every day to work with coding agents one spec at a time. 140+ specs.</sub>
+      <br><sub>The harness I use every day to work with coding agents one spec at a time.</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://youtu.be/okWkX84BQI4"><img src="assets/saltar.jpg" alt="Saltar, HackaTwin" width="100%"></a>
